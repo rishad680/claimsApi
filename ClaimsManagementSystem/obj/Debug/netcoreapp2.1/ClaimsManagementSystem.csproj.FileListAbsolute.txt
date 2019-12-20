@@ -1,0 +1,17 @@
+C:\Users\768680\source\repos\ClaimsManagementSystem\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\768680\source\repos\ClaimsManagementSystem\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\768680\source\repos\ClaimsManagementSystem\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\768680\source\repos\ClaimsManagementSystem\bin\Debug\netcoreapp2.1\ClaimsManagementSystem.deps.json
+C:\Users\768680\source\repos\ClaimsManagementSystem\bin\Debug\netcoreapp2.1\ClaimsManagementSystem.runtimeconfig.json
+C:\Users\768680\source\repos\ClaimsManagementSystem\bin\Debug\netcoreapp2.1\ClaimsManagementSystem.runtimeconfig.dev.json
+C:\Users\768680\source\repos\ClaimsManagementSystem\bin\Debug\netcoreapp2.1\ClaimsManagementSystem.dll
+C:\Users\768680\source\repos\ClaimsManagementSystem\bin\Debug\netcoreapp2.1\ClaimsManagementSystem.pdb
+C:\Users\768680\source\repos\ClaimsManagementSystem\obj\Debug\netcoreapp2.1\ClaimsManagementSystem.csprojAssemblyReference.cache
+C:\Users\768680\source\repos\ClaimsManagementSystem\obj\Debug\netcoreapp2.1\ClaimsManagementSystem.RazorAssemblyInfo.cache
+C:\Users\768680\source\repos\ClaimsManagementSystem\obj\Debug\netcoreapp2.1\ClaimsManagementSystem.RazorAssemblyInfo.cs
+C:\Users\768680\source\repos\ClaimsManagementSystem\obj\Debug\netcoreapp2.1\ClaimsManagementSystem.AssemblyInfoInputs.cache
+C:\Users\768680\source\repos\ClaimsManagementSystem\obj\Debug\netcoreapp2.1\ClaimsManagementSystem.AssemblyInfo.cs
+C:\Users\768680\source\repos\ClaimsManagementSystem\obj\Debug\netcoreapp2.1\ClaimsManagementSystem.RazorTargetAssemblyInfo.cache
+C:\Users\768680\source\repos\ClaimsManagementSystem\obj\Debug\netcoreapp2.1\ClaimsManagementSystem.dll
+C:\Users\768680\source\repos\ClaimsManagementSystem\obj\Debug\netcoreapp2.1\ClaimsManagementSystem.pdb
+C:\Users\768680\source\repos\ClaimsManagementSystem\bin\Debug\netcoreapp2.1\Connected Services\Application Insights\ConnectedService.json
